@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Anki-Deck
 
-You can use the [editor on GitHub](https://github.com/anshkumar/ankiDeck/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can download the deck from here and use it with [anki](https://apps.ankiweb.net/#download) to memorize electrical engineering formulae. Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn. Anki uses spaced repetition flashcard to help you memorize fast.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The SM2 algorithm, created for SuperMemo in the late 1980s, forms the basis of the spaced repetition methods employed in the program. Anki's implementation of the algorithm has been modified to allow priorities on cards and to show cards in order of their urgency.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anshkumar/ankiDeck/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Subjects covered
+1. Control Systems
+2. Digital Electronics
+3. Electric Circuit
+4. Electromagnetic Field Theory
+5. Electric Machines 
+6. Electric Devices
+7. Mathematics
+8. Microprocessor 
+9. Power Electronics
+10. Power Systems
+11. Signal and Systems
+12. Electrical Measurements
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Contact support (vedanshu@outlook.com) and we’ll help you sort it out.
